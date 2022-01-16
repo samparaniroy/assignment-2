@@ -424,6 +424,9 @@ span{
     .logo-content ul li {
         margin: 10px 10px;
     }
+    .popular-single-item {
+        margin: 10px 0;
+    }
 }
     
 
