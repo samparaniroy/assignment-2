@@ -247,7 +247,9 @@ span{
 	padding: 10px 15px;
 	border: 1px solid #000;
 	margin-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
 	border-radius: 6px;
+    font-size: 15px;
 }
 .form-area textarea {
 	width: 100%;
@@ -256,6 +258,8 @@ span{
 	margin-bottom: 20px;
 	border-radius: 6px;
     height: 120px;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
 }
 .submit-button {
 	background: #FF5959;
